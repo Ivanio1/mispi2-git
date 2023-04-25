@@ -27,4 +27,8 @@ public class C implements J {
     public int ae() {
         return 8;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

@@ -27,4 +27,8 @@ public class F implements J {
     public void bb() {
         System.out.println(42);
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
