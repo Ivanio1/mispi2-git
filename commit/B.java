@@ -11,4 +11,8 @@ public class B {
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
+
+    public long ac() {
+        return 333;
+    }
 }
