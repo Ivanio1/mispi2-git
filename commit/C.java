@@ -23,4 +23,8 @@ public class C implements J {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public int ae() {
+        return 8;
+    }
 }

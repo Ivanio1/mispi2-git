@@ -15,4 +15,8 @@ public class B {
     public long ac() {
         return 333;
     }
+
+    public long dd() {
+        return 33;
+    }
 }
