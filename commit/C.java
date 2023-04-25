@@ -32,6 +32,10 @@ public class C extends null implements J {
         return 39;
     }
 
+    public float ff() {
+        return 3.14;
+    }
+
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
@@ -48,8 +52,11 @@ public class C extends null implements J {
         return new java.util.Random();
     }
 
-    public long ac() {
-        return 333;
+    public void ab() {
+        System.out.println();
     }
 
+    public Object rr() {
+        return null;
+    }
 }

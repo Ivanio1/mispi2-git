@@ -28,8 +28,16 @@ public class F extends null implements J {
         System.out.println(42);
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public int af() {
+        return -1;
     }
 
     public String kk() {
@@ -40,16 +48,11 @@ public class F extends null implements J {
         return 39;
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
-
     public float ff() {
         return 3.14;
     }
 
-    public void aa() {
-        System.out.println("void aa");
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
-
 }

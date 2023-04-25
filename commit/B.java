@@ -20,8 +20,8 @@ public class B extends null {
         return 33;
     }
 
-    public void ab() {
-        System.out.println("\n");
+    public Object pp() {
+        return this;
     }
 
     public void bb() {
@@ -40,8 +40,7 @@ public class B extends null {
         return "Hello world";
     }
 
-    public int ae() {
-        return 8;
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
-
 }
