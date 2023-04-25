@@ -1,4 +1,4 @@
-public class B {
+public class B extends null {
 
     private byte e = 1;
 
@@ -30,5 +30,13 @@ public class B {
 
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public String kk() {
+        return "Hello world";
     }
 }

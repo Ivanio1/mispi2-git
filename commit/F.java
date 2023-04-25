@@ -1,4 +1,4 @@
-public class F implements J {
+public class F extends null implements J {
 
     private String b = "hello";
 
@@ -38,5 +38,13 @@ public class F implements J {
 
     public int cc() {
         return 39;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public float ff() {
+        return 3.14;
     }
 }
