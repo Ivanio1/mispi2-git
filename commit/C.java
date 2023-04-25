@@ -19,12 +19,4 @@ public class C implements J {
     public Object pp() {
         return this;
     }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public int ae() {
-        return 8;
-    }
 }

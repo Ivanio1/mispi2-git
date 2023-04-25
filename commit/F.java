@@ -19,12 +19,4 @@ public class F implements J {
     public Object pp() {
         return this;
     }
-
-    public double ad() {
-        return 12.12;
-    }
-
-    public void bb() {
-        System.out.println(42);
-    }
 }
