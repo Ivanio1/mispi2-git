@@ -1,0 +1,22 @@
+public class C implements J {
+
+    private long e = 4321;
+
+    private double f = 100.500;
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public long dd() {
+        return 100500;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public Object pp() {
+        return this;
+    }
+}
