@@ -23,4 +23,8 @@ public class B {
     public void ab() {
         System.out.println("\n");
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

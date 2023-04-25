@@ -31,4 +31,8 @@ public class C implements J {
     public int cc() {
         return 39;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

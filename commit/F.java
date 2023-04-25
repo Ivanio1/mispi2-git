@@ -31,4 +31,8 @@ public class F implements J {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
