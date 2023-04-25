@@ -23,4 +23,8 @@ public class F implements J {
     public double ad() {
         return 12.12;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
