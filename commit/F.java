@@ -35,4 +35,8 @@ public class F implements J {
     public String kk() {
         return "Hello world";
     }
+
+    public int cc() {
+        return 39;
+    }
 }

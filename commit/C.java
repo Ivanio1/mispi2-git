@@ -35,4 +35,8 @@ public class C implements J {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public int af() {
+        return -1;
+    }
 }
