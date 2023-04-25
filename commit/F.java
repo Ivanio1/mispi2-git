@@ -47,4 +47,8 @@ public class F extends null implements J {
     public float ff() {
         return 3.14;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }

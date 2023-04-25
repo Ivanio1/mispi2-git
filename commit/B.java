@@ -39,4 +39,8 @@ public class B extends null {
     public String kk() {
         return "Hello world";
     }
+
+    public int ae() {
+        return 8;
+    }
 }
