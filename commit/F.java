@@ -1,4 +1,4 @@
-public class F implements J {
+public class F extends null implements J {
 
     private String b = "hello";
 
@@ -27,4 +27,29 @@ public class F implements J {
     public void bb() {
         System.out.println(42);
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
 }

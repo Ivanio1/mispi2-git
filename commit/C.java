@@ -1,4 +1,4 @@
-public class C implements J {
+public class C extends null implements J {
 
     private long e = 4321;
 
@@ -27,4 +27,29 @@ public class C implements J {
     public int ae() {
         return 8;
     }
+
+    public int cc() {
+        return 39;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
 }
